@@ -33,7 +33,7 @@
 }
 .calculater h3{
 	color:white;
-	
+	font-size:20px;
 }
 .date{
 	color:red;
@@ -41,6 +41,7 @@
 	display:flex;
 	justify-content:space-around;
 	padding:2rem;
+	font-size:45px;
 	/* margin-top:2rem; */
 }
 .hour{
@@ -67,7 +68,7 @@
 	border-radius:50%;
 	width:21px;
 	height:21px;
-	background-color:red;
+	/* background-color:red; */
 	border:1px solid white;
 	
 	
@@ -93,7 +94,7 @@
 	border-radius:50%;
 	width:21px;
 	height:21px;
-	background-color:red;
+	/* background-color:red; */
 	border:1px solid white;
 	
 	

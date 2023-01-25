@@ -89,11 +89,11 @@ else if(sun==1){
 		weekday1.style.backgroundColor="red"
 	}
 else if(sun==2){
-		var weekday2=document.getElementById("tues")
+		var weekday2=document.getElementById("tue")
 		weekday2.style.backgroundColor="red"
 	}
 else if(sun==3){
-		var weekday3=document.getElementById("tues")
+		var weekday3=document.getElementById("wed")
 		weekday3.style.backgroundColor="red"
 	}
 else if(sun==4){
